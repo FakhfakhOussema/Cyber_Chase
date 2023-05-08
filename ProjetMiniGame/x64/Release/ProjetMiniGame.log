@@ -1,0 +1,2 @@
+﻿  ProjetMiniGame.cpp
+C:\Users\OUSSEMA\source\repos\ProjetMiniGame\ProjetMiniGame\ProjetMiniGame.cpp(1,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
